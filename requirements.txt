@@ -107,4 +107,3 @@ webencodings==0.5.1
 Werkzeug==2.2.2
 whitenoise==6.2.0
 wordcloud==1.8.2.2
-gunicorn

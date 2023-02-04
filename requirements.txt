@@ -29,7 +29,6 @@ fonttools==4.37.4
 gunicorn==20.1.0
 idna==3.4
 ipykernel==6.15.3
-ipython==8.5.0
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jedi==0.18.1
@@ -97,7 +96,6 @@ tqdm==4.64.1
 traitlets==5.4.0
 tzdata==2022.2
 urllib3==1.26.12
-virtualenv==20.16.5
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.2
